@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+.input-range {
+  margin-bottom: 30px;
+}
+.guess-result,
+.play-result {
+  display: none;
+}
+.guess-result span {
+  margin-right: 15px;
+}
+.show {
+  display: block;
+}
